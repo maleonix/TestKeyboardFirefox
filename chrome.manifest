@@ -1,0 +1,3 @@
+content	fxkeyboard chrome/content/
+
+overlay	chrome://browser/content/browser.xul	chrome://fxkeyboard/content/overlay.xul
